@@ -1,6 +1,6 @@
 # Welcome to Hacker Space Boring Place
 
-##Beta Site for test site changes
+## Beta Site for test site changes
 
 URL: [http://borinplace-sitebeta.github.io](http://borinplace-sitebeta.github.io)
 
