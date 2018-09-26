@@ -1,6 +1,6 @@
 ---
 layout: main
-title: Хакспейс Скучное Место
+title: Хакспейс Скучное Место | Hacker Space Boring Place
 ---
 
 # [](#header-1)С чего мы начнём?
