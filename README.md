@@ -2,6 +2,8 @@
 
 ## Beta Site for test site changes
 
+# Degradeted - old version
+
 URL: [http://borinplace-sitebeta.github.io](http://borinplace-sitebeta.github.io)
 
 ## Intro
